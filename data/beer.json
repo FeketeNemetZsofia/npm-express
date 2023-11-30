@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Dreher gold",
+        "abv": 5
+    },
+    {
+        "id": 2,
+        "name": "Soproni Világos",
+        "abv": 4
+    },
+    {
+        "id": 3,
+        "name": "Sör 3",
+        "abv": 3
+    },
+    {
+        "id": 4,
+        "name": "Sör 4",
+        "abv": 2
+    },
+    {
+        "id": 5,
+        "name": "Sör 5",
+        "abv": 1
+    }
+]
